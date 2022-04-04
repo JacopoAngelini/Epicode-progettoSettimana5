@@ -1,2 +1,1 @@
-knknk
- jj
+file messo tramite prompt di git da cartella
